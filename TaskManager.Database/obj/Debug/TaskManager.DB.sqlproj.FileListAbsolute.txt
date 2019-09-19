@@ -1,0 +1,10 @@
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\TaskManager.DB.sqlprojAssemblyReference.cache
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\TaskManager.DB.dll
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\TaskManager.DB.pdb
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\bin\Debug\TaskManager.DB.dacpac
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\bin\Debug\TaskManager.DB.dll
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\bin\Debug\TaskManager.DB.pdb
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\Model.xml
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\refactor.xml
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\postdeploy.sql
+C:\Sample_Projects\TaskManager.DB\TaskManager.DB\obj\Debug\predeploy.sql
