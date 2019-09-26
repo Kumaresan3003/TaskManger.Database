@@ -19,3 +19,13 @@ C:\Users\Administrator\Downloads\TaskManager.Database\TaskManager.Database\bin\D
 C:\Users\Administrator\Downloads\TaskManager.Database\TaskManager.Database\obj\Debug\TaskManager.Database.sqlprojAssemblyReference.cache
 C:\Users\Administrator\Downloads\TaskManager.Database\TaskManager.Database\obj\Debug\TaskManager.Database.dll
 C:\Users\Administrator\Downloads\TaskManager.Database\TaskManager.Database\obj\Debug\TaskManager.Database.pdb
+C:\Master\TaskManger.Database\TaskManager.Database\bin\Debug\TaskManager.Database.dacpac
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\TaskManager.Database.sqlprojAssemblyReference.cache
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\TaskManager.Database.dll
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\TaskManager.Database.pdb
+C:\Master\TaskManger.Database\TaskManager.Database\bin\Debug\TaskManager.Database.dll
+C:\Master\TaskManger.Database\TaskManager.Database\bin\Debug\TaskManager.Database.pdb
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\Model.xml
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\refactor.xml
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\postdeploy.sql
+C:\Master\TaskManger.Database\TaskManager.Database\obj\Debug\predeploy.sql

@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Project] (Table)
+       [dbo].[Task] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Project] (Default Constraint)
+       [dbo].[FK_Project_User] (Foreign Key)
+       [dbo].[FK_ProjectId] (Foreign Key)
+       [dbo].[FK_Task_User] (Foreign Key)
+
+** Supporting actions
